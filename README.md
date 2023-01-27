@@ -1,5 +1,7 @@
 # 💫 About Me:
-👩‍💻 Estudando para me tornar Desenvolvedora Web 
+👩‍💻 Estudando para me tornar Desenvolvedora Web </br>
+📌 Meu outro github mais organizado: https://github.com/Saitocrimson </br>
+📌 Este github é dedicado a códigos aleatórios que crio para estudo.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShiroiB&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
